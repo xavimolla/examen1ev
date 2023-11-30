@@ -1,0 +1,1 @@
+Una característica de git es tener acceso a todas las modificaciones realizadas.
